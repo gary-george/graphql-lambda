@@ -45,4 +45,5 @@ mutation {
 
 ### Blog post
 
-This boiler plate is discussed int his blog post:
+This boiler plate is discussed in this blog post:
+- [Blog Post](https://garygeorge84.medium.com/graphql-facade-for-rest-api-with-aws-lambda-88a00ca082c1)
